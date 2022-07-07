@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656300763,
-        "narHash": "sha256-6XamZ5l0QBvHlkxYb5i2ejOU22T1d4KjiE/rSJzdWnw=",
+        "lastModified": 1656746613,
+        "narHash": "sha256-hF9thA8IAifz13466CO82Baliyy7RJILs5Xa9VFxgg0=",
         "owner": "nim-nix-pkgs",
         "repo": "aossoa",
-        "rev": "fe3dc3f248b4786c6a460c65f2ad75d4ea6706e6",
+        "rev": "c804d729ecd589b5c1fd617686f4469432f85d1f",
         "type": "github"
       },
       "original": {
@@ -39,11 +39,11 @@
       },
       "locked": {
         "dir": "v0_1_0",
-        "lastModified": 1656300763,
-        "narHash": "sha256-6XamZ5l0QBvHlkxYb5i2ejOU22T1d4KjiE/rSJzdWnw=",
+        "lastModified": 1656746613,
+        "narHash": "sha256-hF9thA8IAifz13466CO82Baliyy7RJILs5Xa9VFxgg0=",
         "owner": "nim-nix-pkgs",
         "repo": "aossoa",
-        "rev": "fe3dc3f248b4786c6a460c65f2ad75d4ea6706e6",
+        "rev": "c804d729ecd589b5c1fd617686f4469432f85d1f",
         "type": "github"
       },
       "original": {

@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 6fc9a5a18b7d127a89f86f4bbc32a9e81f64eefa hugosenari <hugosenari@gmail.com> 1656278166 -0300	clone: from github.com:nim-nix-pkgs/aossoa.git
+6fc9a5a18b7d127a89f86f4bbc32a9e81f64eefa 7beae974daf611e70eb924b41487abcade9b4b28 hugosenari <hugosenari@gmail.com> 1656297569 -0300	commit: feat(nimpkgs): remove lock
+7beae974daf611e70eb924b41487abcade9b4b28 fe3dc3f248b4786c6a460c65f2ad75d4ea6706e6 hugosenari <hugosenari@gmail.com> 1656300763 -0300	commit: feat(nimpkgs): remove lock
+fe3dc3f248b4786c6a460c65f2ad75d4ea6706e6 c804d729ecd589b5c1fd617686f4469432f85d1f hugosenari <hugosenari@gmail.com> 1656746613 -0300	commit: feat(nimpkgs): remove lock
+c804d729ecd589b5c1fd617686f4469432f85d1f aceac282f54fa3ac7e6365634ca9ccaca8f1a1be hugosenari <hugosenari@gmail.com> 1657152806 -0300	commit: feat(nimpkgs): remove lock
+aceac282f54fa3ac7e6365634ca9ccaca8f1a1be ec049aeeea49262d0dcb11cd00571c4893f05e36 hugosenari <hugosenari@gmail.com> 1658017796 -0300	commit: feat(nimpkgs): remove lock
+ec049aeeea49262d0dcb11cd00571c4893f05e36 544c82bf7eabff5b687989b27b6d13132b92e053 hugosenari <hugosenari@gmail.com> 1658031740 -0300	commit: feat(nimpkgs): remove lock
+544c82bf7eabff5b687989b27b6d13132b92e053 f89155dcf8acca7633af5715a8bfda7186b36042 hugosenari <hugosenari@gmail.com> 1658201233 -0300	commit: feat(nimpkgs): remove lock
+f89155dcf8acca7633af5715a8bfda7186b36042 b906c6a2b5d431248d0a9e3c4fc5ac2bd897f2b1 hugosenari <hugosenari@gmail.com> 1658205813 -0300	commit: feat(nimpkgs): remove lock
